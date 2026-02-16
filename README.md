@@ -13,19 +13,6 @@ A foundational HTML project showcasing a collection of favorite recipes. This pr
 
 ---
 
-## Project Structure
-
-odin-recipes/
-│
-├── index.html
-│
-└── recipes/
-├── cold-brew-mocha-freeze.html
-├── provolone-sandwich.html
-├── rotisserie-chicken-chef-salad.html
-└── strawberry-banana-smoothie.html
-
-
 ## Recipes Included
 
 - **Cold Brew Mocha Freeze** – A decadent frozen coffee treat blending smooth cold brew concentrate with rich chocolate, milk, and ice, topped with whipped cream.
